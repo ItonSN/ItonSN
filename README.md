@@ -1,4 +1,4 @@
-![Logo of Iton](https://ibb.co/ctjb47T)
+![Logo of Iton](https://i.ibb.co/L63QV2p/logo.png)
 
 <!--
 **ItonSN/ItonSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
