@@ -26,10 +26,15 @@ The team of Iton is composed of several developers and designers in order to com
 ### 👪 The Iton team
 The Iton team is composed of :
 > [ElGodDakio](https://www.github.com/DakioCode) => Founder
+
 > [Valentus](https://www.github.com/valentus8) => Community Manager / Front developer
+
 > [DankBroom](https://www.github.com/DankBroom22855) => Development Manager
+
 > [KirbyxZzz](https://www.github.com/valentus8) => Design Manager
+
 > [Curiopos](https://www.github.com/thibtha) => Front & Discord Bot developer
+
 > [MaitreBleu](https://www.github.com/maitrebleu) => Back developer
 
 ## ❔ How to collaborate?
