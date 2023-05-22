@@ -31,7 +31,7 @@ The Iton team is composed of :
 
 > [DankBroom](https://www.github.com/DankBroom22855) => Development Manager
 
-> [KirbyxZzz](https://www.github.com/valentus8) => Design Manager
+> [KirbyxZzz](https://www.github.com/@raphalolAZ) => Design Manager
 
 > [Curiopos](https://www.github.com/thibtha) => Front & Discord Bot developer
 
